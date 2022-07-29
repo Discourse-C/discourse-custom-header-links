@@ -4,6 +4,8 @@ Discourse 本身没有提供比较好的首页链接配置方法。
 这个插件主要用于解决首页导航配置的问题，有关问题的讨论，请参考[Discourse 自定义头部链接](https://www.ossez.com/t/discourse-custom-header-links/14043)
 页面中的内容。
 
+本仓库是从官方 https://github.com/discourse/discourse-custom-header-links 仓库中 Fork 的。
+
 ## 联系方式
 
 请使用下面的联系方式和我们联系：
